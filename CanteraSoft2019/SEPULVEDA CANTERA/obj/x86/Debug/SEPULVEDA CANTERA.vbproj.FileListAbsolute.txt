@@ -1,0 +1,531 @@
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+C:\Users\JAH\documents\visual studio 2010\Projects\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\JAH\Downloads\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+F:\Sepulveda\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\4 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\5 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\JAH\Google Drive\Proyectos\SEPULVEDA CANTERA\10 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+D:\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemisionFiltro.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemisionFiltro.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuario\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemisionFiltro.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+C:\Users\JAH\Google Drive\11 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculoCargarPlaca.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemisionFiltro.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculoCargarPlaca.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMt3Cargados.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeContratoVenta.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonos.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonosxContratos.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonos.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonosxContratos.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeContratoVenta.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMt3Cargados.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemisionFiltro.resources
+D:\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculoCargarPlaca.resources
+F:\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+F:\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+F:\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+F:\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+F:\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquinaVentas.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMaquinaDiario.resources
+D:\programas\palesas\12 OCTUBRE\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCaja.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonos.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonosxContratos.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCaja.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeContratoVenta.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMaquinaDiario.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMt3Cargados.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquinaVentas.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemisionFiltro.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculoCargarPlaca.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\js\Documents\GitHub\Software-Cantera\SEPULVEDA CANTERA\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonos.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonosxContratos.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCaja.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeContratoVenta.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMaquinaDiario.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMt3Cargados.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquinaVentas.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemisionFiltro.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValera.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculoCargarPlaca.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescarga.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaInforme.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaResumenInforme.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaClienteInforme.resources
+C:\Users\js\Documents\GitHub\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaClienteResumenInforme.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
+D:\Git\cantera\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+D:\Git\cantera\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+D:\Git\cantera\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojResolveAssemblyReference.cache
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonos.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonosxContratos.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCaja.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeContratoVenta.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMaquinaDiario.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMt3Cargados.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquinaVentas.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemisionFiltro.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValera.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescarga.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaClienteInforme.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaClienteResumenInforme.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaInforme.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaResumenInforme.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculoCargarPlaca.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.Cache
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaInformePrincipal.resources
+D:\Git\cantera\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraCargar.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.exe
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.pdb
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\bin\Debug\SEPULVEDA CANTERA.xml
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FfrmInicio.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbono.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonos.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmAbonosxContratos.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCaja.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmCliente.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContrato.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoBuscar.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmContratoVenta.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmEmpleado.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmHorometro_Tanqueo.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeContratoVenta.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeDiario.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMaquinaDiario.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMensual.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmInformeMt3Cargados.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmLogin.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquina.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaquinaVentas.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMaterial.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmMenu.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemision.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmRemisionFiltro.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValera.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraCargar.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescarga.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaClienteInforme.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaClienteResumenInforme.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaInforme.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaInformePrincipal.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmValeraDescargaResumenInforme.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculo.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.FrmVehiculoCargarPlaca.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.exe
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.xml
+C:\Users\Usuario\Downloads\CanteraSoft2019-master\SEPULVEDA CANTERA\obj\x86\Debug\SEPULVEDA CANTERA.pdb
